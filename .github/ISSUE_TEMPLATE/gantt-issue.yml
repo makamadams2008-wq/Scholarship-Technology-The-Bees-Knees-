@@ -36,10 +36,10 @@ body:
       required: true
 
     - type: textarea
-    id: relflection
-    attributes:
-      label: Reflection
-      description: How did this sprint go, what where the chananges, what did you learn.
+      id: reflflection
+      attributes:
+        label: Reflection
+        description: How did this sprint go, what where the chananges, what did you learn.
 
   - type: checkboxes
     id: stakeholders
