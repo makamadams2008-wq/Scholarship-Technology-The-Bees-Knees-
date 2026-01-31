@@ -1,5 +1,6 @@
 name: Gannt Issue Overview
 description: Use this to track master tasks and stakeholders.
+lables: microIssue 
 title: "[Micro]: "
 body:
   - type: markdown
