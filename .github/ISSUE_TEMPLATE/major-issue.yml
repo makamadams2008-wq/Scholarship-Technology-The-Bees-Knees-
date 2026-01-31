@@ -21,7 +21,9 @@ body:
     attributes:
       label: Due Date
       placeholder: YYYY-MM-DD
-
+    validations:
+      required: true
+      
   - type: textarea
     id: keyTasks
     attributes:
@@ -40,7 +42,9 @@ body:
         - label: Ms Murffy
         - label: Bruce Trevarthen
         - label: Other 
-
+    validations:
+      required: true
+      
   - type: checkboxes
     id: subject
     attributes:
@@ -51,7 +55,9 @@ body:
         - label: DIT
         - label: Home
         - label: Other
-
+    validations:
+      required: true
+      
   - type: textarea
     id: notes
     attributes:
