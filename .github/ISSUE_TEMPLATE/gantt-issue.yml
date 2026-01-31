@@ -2,7 +2,7 @@ name: Gantt Issue Overview
 description: Use the smaller tasks for me to keep track of.
 title: "[Micro]: "
 labels: 
-  - "Type: Gantt"
+  - "Gantt"
 assignees:
   - makamadams2008-wq
 body:
