@@ -1,5 +1,5 @@
 name: Gannt Issue Overview
-description: Use this to track master tasks and stakeholders.
+description: Use the smaller tasks for me to keep track of.
 title: "[Micro]: "
 labels: ["Type: Gantt"]
 assignees:
@@ -8,8 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        # Major Issue Overview 
-        Fill out the details below to sync this project to the Wiki.
+        # Micro Issue Overview 
 
   - type: input
     id: startDate
@@ -32,9 +31,15 @@ body:
     id: keyTasks
     attributes:
       label: Key Tasks
-      description: List the titles of the minor issues in order.
+      description: What is the pourpouse what are the goals.
     validations:
       required: true
+
+    - type: textarea
+    id: relflection
+    attributes:
+      label: Reflection
+      description: How did this sprint go, what where the chananges, what did you learn.
 
   - type: checkboxes
     id: stakeholders
@@ -67,3 +72,4 @@ body:
     attributes:
       label: Other Notes
       description: References, links, or extra details.
+GanttFollows: {{ follows }}
