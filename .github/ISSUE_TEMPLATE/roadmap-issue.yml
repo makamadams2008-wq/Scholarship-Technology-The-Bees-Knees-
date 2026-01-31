@@ -1,1 +1,68 @@
+name: Roadmap Issues
+description: Used for stakholders and toi track major tasks such as reserch and assments
+title: "[Macro]: "
+labels: ["Type: roadmap"]
+assignees:
+  - makamadams2008-wq
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Major Issue Overview 
 
+  - type: input
+    id: startDate
+    attributes:
+      label: Start Date
+      value: "GanttStart: 2026-"
+    validations:
+      required: true
+
+  - type: input
+    id: dueDate
+    attributes:
+      label: Due Date
+      value: "GanttDue: 2026-"
+
+    validations:
+      required: true
+      
+  - type: textarea
+    id: keyTasks
+    attributes:
+      label: Key Tasks
+      description: List the titles of the minor issues in order.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: stakeholders
+    attributes:
+      label: Relevant Stakeholders
+      options:
+        - label: MR Harding 
+        - label: Mrs Hone 
+        - label: Ms Murffy
+        - label: Bruce Trevarthen
+        - label: Other 
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: subject
+    attributes:
+      label: Allocated Subject
+      options:
+        - label: HTK
+        - label: DVC
+        - label: DIT
+        - label: Home
+        - label: Other
+    validations:
+      required: true
+      
+  - type: textarea
+    id: notes
+    attributes:
+      label: Other Notes
+      description: References, links, or extra details.
