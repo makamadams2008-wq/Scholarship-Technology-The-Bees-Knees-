@@ -72,4 +72,4 @@ body:
     attributes:
       label: Other Notes
       description: References, links, or extra details.
-GanttFollows: {{ follows }}
+
