@@ -2,7 +2,7 @@ name: Roadmap Issues
 description: Used for stakholders and toi track major tasks such as reserch and assments
 title: "[Macro]: "
 labels: 
-  - "Type: Roadmap"
+  - "Roadmap"
 assignees:
   - makamadams2008-wq
 body:
