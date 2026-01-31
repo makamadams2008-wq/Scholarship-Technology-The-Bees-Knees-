@@ -1,61 +1,59 @@
-# Title and Subtitle 
-- type: markdown
-  attributes:
-    value: |
-      #Major Issue Overview 
-      ## A basic overview of the major task with information on the time, key tasks, relevant stakholders, alocated subject, and other important information
+name: Major Issue Overview
+description: Use this to track master tasks and stakeholders.
+title: "[MAJOR]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Major Issue Overview 
+        Fill out the details below to sync this project to the Wiki.
 
-# Start date input
-- type: input
-  id: startDate
-  attributes:
-    label: Start Date
-    placeholder: YYYY-MM-DD
+  - type: input
+    id: startDate
+    attributes:
+      label: Start Date
+      placeholder: YYYY-MM-DD
     validations:
       required: true
 
-# End date input
-- type: input
-  id: endDate
-  attributes:
-    label: End Date
-    placeholder: YYYY-MM-DD
+  - type: input
+    id: endDate
+    attributes:
+      label: End Date
+      placeholder: YYYY-MM-DD
+
+  - type: textarea
+    id: keyTasks
+    attributes:
+      label: Key Tasks
+      description: List the titles of the minor issues in order.
     validations:
       required: true
 
-# Key tasks
-- type: textarea
-  id: keyTasks
-  attributes:
-    label: Key tasks 
-    description: Please type in all of the minor task in oder these should be the titles of the minor isues 
+  - type: checkboxes
+    id: stakeholders
+    attributes:
+      label: Relevant Stakeholders
+      options:
+        - label: MR Harding 
+        - label: Mrs Hone 
+        - label: Ms Murffy
+        - label: Bruce Trevarthen
+        - label: Other 
 
-# Relavant stakeholders 
-- type: checkboxes
-  id: relevantStakeholders
-  attributes:
-    label: Relavant stakeholders 
-    options:
-      - label: MR Harding 
-      - label: Mrs Hone 
-      - label: Ms Murffy
-      - label: Bruce Trevarthen
-      - label: Other 
+  - type: checkboxes
+    id: subject
+    attributes:
+      label: Allocated Subject
+      options:
+        - label: HTK
+        - label: DVC
+        - label: DIT
+        - label: Home
+        - label: Other
 
-# Elocated Subject 
-- type: checkboxes
-  id: elocatedSubject
-  attributes:
-    lable: Elocated Subject
-    options:
-      - label: HTK
-      - label: DVC
-      - label: DIT
-      - label: Home
-      - label: Other
-
-# Notes
-- type: textarea
-  attributes:
-    label: Other Notes
-    description: Any other Key information such as refrances and links 
+  - type: textarea
+    id: notes
+    attributes:
+      label: Other Notes
+      description: References, links, or extra details.
