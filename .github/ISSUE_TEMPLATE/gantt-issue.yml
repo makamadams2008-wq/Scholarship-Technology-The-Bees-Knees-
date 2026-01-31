@@ -1,4 +1,4 @@
-name: Gannt Issue Overview
+name: Gantt Issue Overview
 description: Use the smaller tasks for me to keep track of.
 title: "[Micro]: "
 labels: ["Type: Gantt"]
@@ -23,7 +23,6 @@ body:
     attributes:
       label: Due Date
       value: "GanttDue: 2026-"
-
     validations:
       required: true
       
@@ -31,24 +30,24 @@ body:
     id: keyTasks
     attributes:
       label: Key Tasks
-      description: What is the pourpouse what are the goals.
+      description: What is the purpose and what are the goals?
     validations:
       required: true
 
-    - type: textarea
-      id: reflflection
-      attributes:
-        label: Reflection
-        description: How did this sprint go, what where the chananges, what did you learn.
+  - type: textarea
+    id: reflection
+    attributes:
+      label: Reflection
+      description: How did this sprint go, what were the challenges, and what did you learn?
 
   - type: checkboxes
     id: stakeholders
     attributes:
       label: Relevant Stakeholders
       options:
-        - label: MR Harding 
-        - label: Mrs Hone 
-        - label: Ms Murffy
+        - label: Mr. Harding 
+        - label: Mrs. Hone 
+        - label: Ms. Murphy
         - label: Bruce Trevarthen
         - label: Other 
     validations:
@@ -72,4 +71,3 @@ body:
     attributes:
       label: Other Notes
       description: References, links, or extra details.
-
