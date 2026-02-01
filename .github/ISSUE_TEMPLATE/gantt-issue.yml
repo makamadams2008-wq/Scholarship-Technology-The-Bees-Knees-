@@ -1,0 +1,74 @@
+name: Gantt Issue Overview
+description: Use the smaller tasks for me to keep track of.
+title: "[Micro]: "
+labels: 
+  - "Gantt"
+assignees:
+  - makamadams2008-wq
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Micro Issue Overview 
+
+  - type: input
+    id: startDate
+    attributes:
+      label: Start Date
+      value: "GanttStart: 2026-"
+    validations:
+      required: true
+
+  - type: input
+    id: dueDate
+    attributes:
+      label: Due Date
+      value: "GanttDue: 2026-"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: keyTasks
+    attributes:
+      label: Key Tasks
+      description: What is the purpose and what are the goals?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reflection
+    attributes:
+      label: Reflection
+      description: How did this sprint go, what were the challenges, and what did you learn?
+
+  - type: checkboxes
+    id: stakeholders
+    attributes:
+      label: Relevant Stakeholders
+      options:
+        - label: Mr. Harding 
+        - label: Mrs. Hone 
+        - label: Ms. Murphy
+        - label: Bruce Trevarthen
+        - label: Other 
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: subject
+    attributes:
+      label: Allocated Subject
+      options:
+        - label: HTK
+        - label: DVC
+        - label: DIT
+        - label: Home
+        - label: Other
+    validations:
+      required: true
+      
+  - type: textarea
+    id: notes
+    attributes:
+      label: Other Notes
+      description: References, links, or extra details.
