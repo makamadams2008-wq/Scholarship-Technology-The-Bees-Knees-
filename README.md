@@ -15,3 +15,6 @@ Most bee hive technology today is not built with beginners in mind as they are d
  
 Physical barriers:
 In the world of beginner bee keeping hives like the Langstroth hive are commonly endorsed hives for beginners. These hives have physical barriers such as high time commitment and heavy hive boxes. Because of the architecture of these hives a beekeeper has to take off almost every component to access the brood box; the most important part of the hive. THis can be physically demanding and take a lot of time which can be very impactful for the less physically able and/or people that have no time.
+
+The Goal:
+
