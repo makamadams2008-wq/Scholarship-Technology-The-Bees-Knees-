@@ -56,7 +56,7 @@ Symbiotic Relationship:
 
 Hive viability:
 
-- The beehive should consider the natural environment of bees and have at least three measurable improvements over the Langstroth hive that support the bees' viability with little to no negative impact.
+- The beehive should consider the natural environment of bees and have at least three measurable improvements over the Langstroth hive that support the bee's viability with little to no negative impact, some exsmaples of this to look into are hive energy conseration, imporved varro mite midigation, or imporved hive humidity managment.
 
 - All materials should be 100% bee safe.
 
