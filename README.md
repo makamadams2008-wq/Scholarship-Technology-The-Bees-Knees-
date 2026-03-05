@@ -10,7 +10,7 @@ Current beekeeping technology is designed for commercial use where honey extract
 
 There is a lack of technology surrounding beginner beekeepers to support them in a way that creates a balanced relationship between bees and humans. Because of this, beginners tend to put the hive in an unsatisfactory position when considering current-day technology. This leads to three major problems, which are time management and organization, hive viability, and honey bias.
 
-Honey bias (the overextraction of honey):
+Honey bias (the over extraction of honey):
 
 Because the more common hive designs are centered around commercial use, beginners struggle with the concept of how much honey to take without shifting the ecosystem of the colony. As a result, new beekeepers end up taking too much honey, leaving the colony in a less sustainable situation going into winter. This is because honey has important enzymes and vitamins that help build and protect the bees, which the alternative super syrup cannot subsidize effectively.
 
