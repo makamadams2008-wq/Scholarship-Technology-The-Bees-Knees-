@@ -25,11 +25,7 @@ In the world of beginner beekeeping, many designs, such as the Langstroth hive, 
 
 Goal:
 
-To develop an accessible beehive targeted at improving the symbiotic relationship between bees and humans by leveraging new regenerative technology. The final beehive should target the three main problems of time management and organization, the hive's viability, and honey bias.
-
-Symbiosis Definition:
-
-The interaction between two different organisms living in close physical association, typically to the advantage of both.
+To develop an accessible beehive targeted at improving the relationship between bees and humans so a more balanced ecosystem is foarmed by leveraging new regenerative technology. The final beehive should target the three main problems of time management and organization, the hive's viability, and honey bias.
 
 Target Audience:
 
@@ -53,37 +49,39 @@ Regenerative Design (designing in a way to generate net-positive impacts for bot
 
 Hive viability:
 
-- The beehive should consider the natural environment of bees and have at least three measurable improvements over the Langstroth hive that support the bee's viability with little to no negative impact. Some examples of this to look into are hive energy conservation, improved varroa mite mitigation, or improved hive humidity management.
+- The beehive should consider the natural environment of bees and have at least three measurable improvements over the Langstroth hive that support the bee's viability with little to no negative impact. (E.g. energy conservation, improved varroa mite mitigation, or improved hive humidity management)
 
-- All materials should be 100% bee safe. (All materials will be compared with certified chemistry websites and studies.)
+- All materials that bees can directlyu or inderectly come in cointact with should be 100% bee safe. (This will be cross refranced with the 2014 food grade standurd)
 
-- The beehive must take advantage of poka-yoke features so the user is less susceptible to making mistakes, such as flipping frames or crushing the queen, especially if the design is not as intuitive as the standards.
+- The beehive must take advantage of poka-yoke features so the user is less susceptible to making mistakes, such as flipping frames or crushing the queen, especially if the design is not as intuitive as the standards.(Some exsamples of this include one directanakl frames and labled components)
 
 Accessible:
 
-- The final beehive must have a total batch production price of no more than 500 NZD by incorporating only high-value features. (This will be tracked by a master sheet with all parts.)
+- The final beehive must have a total batch production price of no more than 500 NZD by incorporating only high-value features. (The cost of labour will not be consedwed in this metric as the hives are designed for mass manufactruing where time is less relvant)
 
-- The final beehive must include any proprietary technology in its overall package and budget that is required for base functionality.
+- The final beehive must include any proprietary technology, that i have designed in its overall package and budget that is required for base functionality.
 
-- The final beehive must be flatpackable for cheaper shipping so more money can be put into more important development than expensive shipping.
+- The final beehive must be flatpackable for cheaper shipping so more money can be put into more important development than expensive shipping. (Fastaning pre-tapped screws and glueing features are both post shipping operations are both permited though no operations of greater complexity are to be included)
 
-- The final beehive should consider both the average user and the user range in its construction. (Via novice and experienced user trialing and testing)
+- The final beehive should consider both the users with and without exsperance in its construction, this repercents the exspected clianent range. (This will be refranced via the Wakatipu Beekeper Club, and the high school)
 
-- All non-proprietary technology must have valid reasoning supported with evidence that demonstrates its strengths over standardized technology.
+- All proprietary technology must have valid reasoning supported with evidence that demonstrates its strengths over standardized technology.
 
 Time Management and Organization:
 
-- The beehive must have integrated technology to promote the regular intervention of the user rather than trying to replace them. (This metric will be analyzed by gathering a range of user feedback on how new features influenced their organization and time management.)
+- The beehive must have integrated pasive technology that promotes the regular intervention of the user rather than replacing them. (This metric will be analyzed by gathering a range of user feedback on how new features influenced their organization and time management.)
 
-- The beehive should have an app developed alongside it to help provide additional information for the user about their hive and general information.
+- The beehive should have a python/javascript app developed alongside it to help provide additional information for the user about their hive and general information.
 
 Other:
 
 - Any unsafe aspects of the hive must be clearly documented. (This will be done by labels and warnings with additional on-app information.)
 
-- Every new development should undergo evaluation to support its claims with concrete proof of overall improvement and consideration of drawbacks. (This includes final real-world colony and user testing.)
+- Every new development should undergo evaluation to support its claims with concrete metric based proof of overall improvement and consideration of drawbacks. (This includes final real-world colony and user testing.)
 
 - The final hive must match the aesthetics of a range of expected environments effectively (real-world setting comparisons and feedback).
 
 - When batch constructed, each hive must take less than 16 hours' worth of manual labor to manufacture (this means one hive can take more than a day as long as it takes no more than 16 hours to produce).
+
+
 
