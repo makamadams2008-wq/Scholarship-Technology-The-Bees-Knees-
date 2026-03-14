@@ -6,9 +6,9 @@ This repository was developed in order to show adequate documentation of the dev
 
 Problem Statement:
 
-Current beekeeping technology is designed for commercial use where honey extraction is centered. Most beginners do not understand the implications that come with using the commercial hive designs; this misalignment in expectations and technology causes three major problems.
+Current beekeeping technology is designed for commercial use where honey extraction is centered. Most beginners do not understand the implications that come with using the commercial hive designs.
 
-There is a lack of technology surrounding beginner beekeepers to support them in a way that creates a balanced relationship between bees and humans. Because of this, beginners tend to put the hive in an unsatisfactory position when considering current-day technology. This leads to three major problems, which are time management and organization, hive viability, and honey bias.
+This comes down to a lack of technology surrounding beginner beekeepers to support them in a way that creates a balanced relationship between bees and humans. Because of this, beginners tend to put the hive in an unsatisfactory position when considering current-day technology. This leads to three major problems, which are time management and organization, hive viability, and honey bias.
 
 Honey bias (the over extraction of honey):
 
@@ -21,6 +21,7 @@ The commercially designed hives do not have a Poka-Yoke (mistake-proof) design; 
 Time management and organization:
 
 In the world of beginner beekeeping, many designs, such as the Langstroth hive, have barriers of high time commitment and high organization requirements. With many people today having full schedules, it can be hard to put the time aside to look after a hive correctly, especially when there are no reminders set in place, like a calendar or notification system.
+
 
 Goal:
 
